@@ -87,4 +87,3 @@ This project was developed as a final team capstone by **Group 13**. It reflects
 
 ---
 
-Let me know if you’d like a 1-paragraph “portfolio blurb” version for a resume, or a snappy one-liner for LinkedIn.
