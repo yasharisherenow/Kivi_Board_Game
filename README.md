@@ -8,6 +8,8 @@
 This project was built from scratch over multiple Agile sprints and is presented as a polished, standalone `.jar` file — no installation or setup required.
 
 ---
+![photo_2025-05-18_08-59-18](https://github.com/user-attachments/assets/5e65690f-c824-4b13-bd32-af73f093830e)
+
 
 ## Key Features
 
