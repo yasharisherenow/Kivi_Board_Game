@@ -87,5 +87,4 @@ This project was built from scratch over multiple Agile sprints and is presented
 
 This project was developed as a final team capstone by **Group 13**. It reflects a professional standard of software quality, clean modularity, and thoughtful design. Though only the `.jar` is distributed, the underlying system demonstrates proficiency in AI logic, pattern-based software architecture, and full-stack game development — all in Java.
 
----
 
